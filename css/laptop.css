@@ -1,0 +1,17 @@
+@media (max-width: 1300px) {
+    /* header */
+    header{
+            padding: 18px 64px;
+    }
+    /* section 2 */
+    .section2{
+        padding: 64px 0 64px 64px;
+    }
+    .article_div{
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+    .card{
+        flex: 0 0 298px;
+    }
+}
