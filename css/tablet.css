@@ -1,0 +1,19 @@
+@media (max-width: 880px) {
+    /* header */
+    header{
+        padding: 18px 24px;
+    }
+    .menu_btn{
+        display: block;
+    }
+    .header_button{
+        display: none;
+    }
+    .header_ul{
+        display: none;
+    }
+    /* section 2*/
+    .section2{
+        padding: 24px 0 24px 24px;
+    }
+}
