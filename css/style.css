@@ -70,6 +70,7 @@ h1{
 .arrow{
     width: 56px;
     height: 56px;
+    cursor: pointer;
 }
 .menu_btn{
     display: none;
